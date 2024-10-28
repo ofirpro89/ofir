@@ -137,7 +137,7 @@
   justify-items: center;
   align-content: center;
   gap: 25px;
-  background-image: url(../photo/bg1.jpg);
+  background-image: url('bg1.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
