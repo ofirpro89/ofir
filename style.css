@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(../photo/bg1.jpg);
+  background-image: url('bg1.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
